@@ -236,4 +236,3 @@ foreach($ar as $d)
   if (@copy('img1.jpg',$dir.$d.'/0001.jpg')) echo "Copy <br>\r\n"; else echo "Error <br>\r\n";
 }
 */
-?>
